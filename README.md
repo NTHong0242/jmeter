@@ -1,6 +1,4 @@
-# jmeter
-# jmeter
-# jmeter
+
 # Kiểm tra hiệu năng trang web W3Schools Online Web Tutorials
 Tạo một User (Thread Group). Ở User sẽ xác định số lượng người dùng ảo (threads), thời gian khởi động (ramp-up period) và số lần lặp lại (loop count) cho lần thử nghiệm.
 Tiếp theo, trong User, thêm một HTTP để xác định các yêu cầu HTTP sẽ được gửi tới trang web. Đặt "Server Name or IP" là "www.w3schools.com" và "Path" là "/" để gửi yêu cầu tới trang chủ.
