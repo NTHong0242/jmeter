@@ -28,8 +28,10 @@ Phân tích kết quả kiểm tra:
     Loại dữ liệu ("text"|"bin"|""): text.
     Mã phản hồi: 200.
     Thông báo phản : OK.
-![alt text](<Screenshot 2024-06-02 003037.png>)
+<img width="960" alt="Screenshot 2024-06-02 003037" src="https://github.com/NTHong0242/jmeter/assets/96609863/6e4b940a-bc6f-4610-81f3-d7704fe0e034">
+
 So sánh hiệu năng của hai trang web hoặc API:
-![alt text](<Screenshot 2024-06-02 004318.png>)
+<img width="960" alt="Screenshot 2024-06-02 004318" src="https://github.com/NTHong0242/jmeter/assets/96609863/dbcbd21f-41e1-4429-9f7b-50e5f29edc81">
+
 
 
